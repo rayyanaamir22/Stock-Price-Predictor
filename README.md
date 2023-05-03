@@ -1,2 +1,8 @@
 # Stock-Price-Predictor
-Using sci-kit Learn and Random Forest models to predict future S&amp;P 500 prices.
+
+Refreshing my sklearn, pandas, and data engineering skills with a model that predicts S&P 500 stock values.
+
+Dependencies:
+- sklearn
+- pandas
+- yfinance
